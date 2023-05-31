@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.pyc
+*.swp
+._*
+~.DS_Store
+
+# Dataset
+*.xlsx
+
+# Ambientes virtuais / Pacotes instalados
+venv/
+env/
+env.bak/
+env1/
+env2/
+env3/
+env*/bin/
+env*/include/
+env*/lib/
+env*/lib64/
+env*/pip-selfcheck.json
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg
+
+# Dependências geradas
+/.python-version
+pip-lock.txt
+pipenv.lock
+Pipfile.lock
+pipfile.lock
+
+# Arquivos de configuração
+*.ini
+*.cfg
+*.conf
+.settings/
+
+# Arquivos de dados sensíveis
+config.py
+secrets.py
+credentials.json
+
+# Outros
+.idea/
+.vscode/
+*.pydevproject
+*.idea
+.vs/
